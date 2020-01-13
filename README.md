@@ -2,7 +2,7 @@
 
 基于WebRTC的单聊语音通话demo
 
-编程语音：Swift
+编程语言：Swift
 
 Xcode版本：11.3
 
